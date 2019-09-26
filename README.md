@@ -1,2 +1,2 @@
 # CutshortAssignment
-Creating Catacha image in JAva
+Creating Catacha image in JAVA
